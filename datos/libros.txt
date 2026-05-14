@@ -1,0 +1,6 @@
+ISBN001,Cien años de soledad,Gabriel García Márquez,Novela,35000.0,10
+ISBN002,El principito,Antoine de Saint-Exupéry,Infantil,22000.0,15
+ISBN003,1984,George Orwell,Ciencia Ficción,28000.0,8
+ISBN004,Don Quijote de la Mancha,Miguel de Cervantes,Clásico,45000.0,5
+ISBN005,Harry Potter y la piedra filosofal,J.K. Rowling,Fantasía,40000.0,12
+ISBN006,El alquimista,Paulo Coelho,Autoayuda,25000.0,20
